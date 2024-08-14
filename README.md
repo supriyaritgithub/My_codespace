@@ -1,8 +1,11 @@
 ## Hi there! 👋
-### About me
 
 I'm Supriya, a budding software developer with a passion for aerospace engineering. Currently, I'm pursuing my degree in aerospace engineering while also diving deep into the world of coding. My interests lie at the fascinating intersection of software development and aerospace, where I believe innovative code can help shape the future of technology and space exploration.
 
+#### What I'm Working On:
+- Building projects that merge my love for software and aerospace.
+- Contributing to open-source communities to improve and learn from diverse coding practices.
+- Continuously expanding my knowledge in programming languages such as [pyhon, js, html, css, c/c++ and more].
 
 #### My Goals:
 - To develop software solutions that can be applied within the aerospace industry.
@@ -14,7 +17,3 @@ I'm Supriya, a budding software developer with a passion for aerospace engineeri
 - I'm always open to collaboration, so don't hesitate to reach out if you're interested in working on something exciting together.
 
 🚀 Let’s build the future, one line of code at a time!
-<!--#### What I'm Working On:
-- Building projects that merge my love for software and aerospace.
-- Contributing to open-source communities to improve and learn from diverse coding practices.
-- Continuously expanding my knowledge in programming languages such as [c/c++, python , JS].>
