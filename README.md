@@ -8,7 +8,7 @@ I'm Supriya, a budding software developer with a passion for aerospace engineeri
 - Continuously expanding my knowledge in programming languages such as [pyhon, js, html, css, c/c++ and more].
 
 #### My Goals:
-- To develop software solutions that can be applied within the aerospace industry.
+- To develop software solutions that can be applied within and outside the aerospace industry.
 - To contribute to projects that push the boundaries of technology and exploration.
 - To collaborate with like-minded developers and engineers on challenging and impactful projects.
 
